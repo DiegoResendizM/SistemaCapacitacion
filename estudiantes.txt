@@ -1,0 +1,4 @@
+2024002;Juan;Martínez;Ramírez;juan.martinez@email.com;5552345678
+2024003;Ana;Hernández;Torres;ana.hernandez@email.com;5553456789
+2024004;Carlos;Pérez;Sánchez;carlos.perez@email.com;5554567890
+2024005;Laura;Rodríguez;Morales;laura.rodriguez@email.com;5555678901

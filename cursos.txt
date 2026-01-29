@@ -1,0 +1,4 @@
+PYTHON202;Python para Data Science;Análisis de datos con Python y bibliotecas científicas;60;7500
+SQL303;Bases de Datos SQL;Diseño y consultas avanzadas en SQL Server;35;4500
+WEB404;Desarrollo Web Full Stack;HTML CSS JavaScript Node.js y React;80;9000
+CLOUD505;Cloud Computing AWS;Arquitectura de soluciones en la nube con AWS;50;8500
