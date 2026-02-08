@@ -542,8 +542,8 @@ Este proyecto fue desarrollado como parte de un curso de programación orientada
 ## 📞 Soporte
 
 Si encuentras algún problema o tienes sugerencias:
-- 🐛 Abre un [Issue](https://github.com/tu-usuario/sistema-capacitacion/issues)
-- 📧 Contacto: tu-email@ejemplo.com
+- 🐛 Abre un [Issue] https://github.com/DiegoResendizM
+- 📧 Contacto: dirm_1104@hotmail.com
 
 ---
 
